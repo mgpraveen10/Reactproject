@@ -1,0 +1,65 @@
+
+
+.starbeancon {
+    height:auto;
+    overflow:hidden;
+    background-color:#faf7f5;
+   }
+   
+   .conbeancon {
+   float: left;
+       width: 50%;
+   }
+   
+   .conbean {
+   float: right;
+       width: 30%;
+       margin-right: 10%;
+       padding: 5%;
+   }
+   
+   .starbeanimageleft {
+     margin-left: 2.75rem;
+       width: auto;
+       height: 220px;
+       max-width: 220px;
+       margin-top: 1.875rem;
+       width: 100%;
+       float: left;
+   }
+   
+   .starbeanimageright  {
+   margin-left: 2.75rem;
+       width: auto;
+       height: 220px;
+       max-width: 220px;
+       margin-top: 1.875rem;
+       width: 100%;
+       float: right;
+   }
+   .starbeantitle {
+   text-align:center;
+   }
+   .starbeandescleft
+   {font-family: "Montserrat";
+       margin: 0;
+       line-height: 1.33;
+       color: #2b2b2d;
+       font-stretch: normal;
+       letter-spacing: normal;
+       margin-bottom: 0;
+       font-size: .875rem;
+       font-weight: 500;
+   }
+   .starbeandescright
+   {font-family: "Montserrat";
+       margin: 0;
+       line-height: 1.33;
+       color: #2b2b2d;
+       font-stretch: normal;
+       letter-spacing: normal;
+       margin-bottom: 0;
+       font-size: .875rem;
+       font-weight: 500;
+   }
+   
